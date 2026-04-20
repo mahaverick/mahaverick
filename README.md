@@ -1,7 +1,7 @@
 
 
 <!--
-### Hello there 👋 I'm Abhijeet Mahavarkar.
+### Hello there 👋 I'm Abhijeet.
 
 **mahaverick/mahaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm Abhijeet Mahavarkar
+# Hello, I'm Abhijeet 👋
 
-Senior Full Stack Engineer specializing in e-commerce analytics and data infrastructure at [Out of the Blue](https://outoftheblue.ai)
+Software Engineer from Pune, India.
+
+Currently I am working as a Senior Full Stack Engineer on e-commerce analytics and data infrastructure at [Out of the Blue](https://outoftheblue.ai)
 
 ## 🚀 What I Do
 
