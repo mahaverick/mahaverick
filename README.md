@@ -1,58 +1,35 @@
+# Hi, I'm Abhijeet
 
+Senior Full Stack Engineer in Pune, India. 12 years in product startups, working in TypeScript across Node.js and React.
 
-<!--
-### Hello there 👋 I'm Abhijeet.
+At [Out of the Blue](https://outoftheblue.ai) I led the platform's migration to a new codebase and am the primary author of its API, merchant dashboard, semantic layer and data pipeline, plus the public MCP gateway that lets AI agents query a merchant's metrics through scoped, per-caller authentication.
 
-**mahaverick/mahaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work on
 
-Here are some ideas to get you started:
+- **Multi-tenant SaaS:** tenant provisioning, RBAC, Stripe and Shopify billing, background jobs
+- **Data platforms:** dbt on BigQuery, Cube.js semantic layers, PostgreSQL
+- **AI agents:** MCP servers, agent tool design, Anthropic and Gemini SDKs
+- **Shopify:** embedded apps, Admin GraphQL API, webhooks, web pixels, Liquid themes
+- **Running it:** Kubernetes on GCP, OpenTelemetry, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
 
-# Hello, I'm Abhijeet 👋
+**Backend:** TypeScript, Node.js, Express 5, PostgreSQL, Drizzle ORM, Redis, BullMQ, BigQuery  
+**Frontend:** React 19, TanStack Router/Query/Form/Table, Zustand, Tailwind CSS, shadcn/ui  
+**Data:** dbt, Cube.js, SQL, Python  
+**AI:** Model Context Protocol, Anthropic Claude SDK, Gemini  
+**Infrastructure:** Docker, Kubernetes (GKE), GCP, Terraform/OpenTofu, OpenTelemetry, Grafana
 
-Software Engineer from Pune, India.
+## Featured projects
 
-Currently I am working as a Senior Full Stack Engineer on e-commerce analytics and data infrastructure at [Out of the Blue](https://outoftheblue.ai)
+A SaaS starter kit, three repos built to work together:
 
-## 🚀 What I Do
+- [express-boilerplate](https://github.com/mahaverick/express-boilerplate) — Express 5 API: passwordless sign-in (emailed link, Google, passkeys), multi-tenancy with roles and invitations, audit log, live notifications, BullMQ jobs, Razorpay billing, OpenTelemetry
+- [react-boilerplate](https://github.com/mahaverick/react-boilerplate) — React 19 customer app on TanStack Router/Query and Tailwind/shadcn
+- [apex-boilerplate](https://github.com/mahaverick/apex-boilerplate) — staff admin console for the same API
 
-Building scalable analytics pipelines and Shopify integrations that help e-commerce founders make data-driven decisions. I focus on:
-
-- 📊 **Analytics Infrastructure**: Multi-platform tracking, web pixels, and real-time dashboards
-- 🏗️ **Data Pipelines**: Node.js, PostgreSQL, BigQuery for processing merchant data at scale
-- ⚛️ **Modern React**: TanStack ecosystem (Query, Router), Zustand for state management
-- 🛍️ **Shopify Ecosystem**: Apps, GraphQL APIs, webhooks, and pixel extensions
-- 🤖 **MCP Development**: Building context servers and integrations for AI-powered e-commerce insights
-
-## 🛠️ Tech Stack
-
-**Backend**: Node.js, Express.js, TypeScript, PostgreSQL, DrizzleORM, BigQuery  
-**Frontend**: React, TanStack Query/Router, Zustand, Redux Toolkit  
-**Infrastructure**: Docker, Kubernetes, GCP, Grafana, OpenTelemetry  
-**E-commerce**: Shopify APIs, Magento, BigCommerce, web pixels  
-**AI/MCP**: Model Context Protocol, LLM integrations
-
-<!--
-## 📦 Featured Projects
-
-Check out my boilerplates for quickly starting production-ready applications:
-- [express-boilerplate](https://github.com/mahaverick/express-boilerplate) - Express.js + TypeScript + PostgreSQL + DrizzleORM
-- [react-boilerplate](https://github.com/mahaverick/react-boilerplate) - React + JWT Auth + Redux Toolkit
-
--->
-
-
-## 📫 Connect
+## Connect
 
 - LinkedIn: [abhijeet-mahavarkar](https://www.linkedin.com/in/abhijeet-mahavarkar/)
 - Bluesky: [@mahaverick.bsky.social](https://bsky.app/profile/mahaverick.bsky.social)
-- Location: Pune, India 🇮🇳
+- Location: Pune, India
